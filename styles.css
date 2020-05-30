@@ -1,0 +1,60 @@
+body{
+    background: url("https://th.bing.com/th/id/OIP.BiUoyjggy9S5cgsdc_insgHaDn?pid=Api&rs=1") no-repeat;
+    background-size: cover;
+    cursor: default;
+}
+#box{
+    background-color: #ffffff;
+    margin-top: 170px;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding-bottom: 260px;
+    border: solid;
+    border-radius: 10px;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+}
+#valeur1{
+    background-color: #ffffff;
+    border: 0;
+    border: solid;
+    border-width: 3px;
+    width: 25px;
+    margin-right: 150px;
+    margin-top: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    border-color: blue;
+    cursor: default;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.h1{
+    color: black;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+#valeur1:focus{
+    border: solid;
+    border-radius: 10px;
+    border-color: blueviolet;
+}
+#X{
+    color: black;
+    text-transform: uppercase;
+    margin-top: -25px;
+    font-size: 10px;
+    margin-right: 88px;
+}
+#adi{
+    color: black;
+    text-transform: uppercase;
+    margin: -25px;
+    margin-left: -55px;
+    margin-top: -33px;
+}
